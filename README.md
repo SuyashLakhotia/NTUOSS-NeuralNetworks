@@ -18,4 +18,4 @@ Raise your hand at any time during the workshop or shoot me an [e-mail](mailto:h
 
 ### Errors?
 
-If you find any mistake (typo or anything else), please [post an issue](https://github.com/SuyashLakhotia/NTUOSS-NeuralNetworksWorkshop/issues/new)! Thanks!
+If you find any mistake (typo or anything else), please [post an issue](https://github.com/SuyashLakhotia/NTUOSS-NeuralNetworks/issues/new)! Thanks!
