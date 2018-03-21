@@ -2,7 +2,7 @@
 
 *by Suyash Lakhotia for NTU Open Source Society*
 
-***Disclaimer*** *-* *The slides and Jupyter notebook in this repository are only meant to serve as a reference for the attendees of the workshop. It does not cover all the concepts or implementation details discussed during the actual workshop.*
+***Disclaimer*** *-* *The slides ([PDF](Slides.pdf), [Google Slides](https://docs.google.com/presentation/d/1VJGrYHzgwy-g4cuoELoTzRw4FBd8IzIXZu6pNtMWzwM/edit?usp=sharing)) and [Jupyter notebook](notebook.ipynb) in this repository are only meant to serve as a reference for the attendees of the workshop. It does not cover all the concepts or implementation details discussed during the actual workshop.*
 
 <hr>
 
