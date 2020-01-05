@@ -8,9 +8,9 @@
 
 ### Workshop Details:
 
-**When?**: Friday, 23 March 2018. 6:30 PM - 8:30 PM.</br>
-**Where?**: LT 13, North Spine, Nanyang Technological University</br>
-**Who?**: NTU Open Source Society
+**When?** Friday, 23 March 2018. 6:30 PM - 8:30 PM.</br>
+**Where?** LT 13, North Spine, Nanyang Technological University</br>
+**Who?** NTU Open Source Society
 
 ### Questions?
 
